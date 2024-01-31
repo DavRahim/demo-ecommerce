@@ -1,8 +1,9 @@
+import TitleSection from "../components/Home/TitleSection";
 
 const Home = () => {
     return (
         <div>
-            home
+            <TitleSection title={"Our Shop Product"} description={"Our summer product "}/>
         </div>
     );
 };
