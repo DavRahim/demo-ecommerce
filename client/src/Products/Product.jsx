@@ -2,7 +2,7 @@ import React from "react";
 
 const Product = () => {
   return (
-    <div className="shadow-lg p-4 rounded-md ">
+    <div className="shadow-lg p-4 rounded-md">
       <div>
         <img
           className="w-[270px] h-[270px] rounded-md"
