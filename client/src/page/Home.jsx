@@ -4,6 +4,7 @@ import Banner from "../components/Home/Banner";
 import FlashSale from "../components/Home/FlashSale";
 import Footer from "../components/Footers/Footer";
 import Products from "../Products/Products";
+import Login from "../components/Form/Login";
 
 const Home = () => {
     return (
@@ -13,6 +14,7 @@ const Home = () => {
             <TitleSection title={"Our Shop Product"} description={"Our summer product "}/>
             <Products/>
             <FlashSale/>
+            <Login/>
             <Footer/>
            
         </div>
